@@ -1,2 +1,2 @@
 # js.ritesh
-a code for javascript learning
+Hello I am Ritesh learning js
